@@ -1,2 +1,2 @@
-# This is an example of data structure and demonstration
+# This is an example of Java
 # Test environment: Java Idea
